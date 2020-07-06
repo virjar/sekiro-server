@@ -21,7 +21,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 ```
 - 部署
 ```bash
-git clone https://github.com/lbbniu/sekiro-server.git
+git clone https://github.com/virjar/sekiro-server.git
 cd sekiro-server
 docker-compose up -d
 ```
